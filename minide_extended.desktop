@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MiniDE Extended
+Comment=Un entorno minimalista con barra y lanzador
+Exec=/usr/local/bin/minide_extended
+Type=Application
+DesktopNames=MiniDExtended
